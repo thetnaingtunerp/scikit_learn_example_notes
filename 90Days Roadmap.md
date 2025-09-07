@@ -114,11 +114,7 @@ Customer Segmentation with KMeans + PCA
 Goal: Hyperparameter Tuning, Ensemble Learning & Real Projects
 Day 76–80: Hyperparameter Tuning
 GridSearchCV
-
-
 RandomizedSearchCV
-
-
 Choosing best parameters
 
 
