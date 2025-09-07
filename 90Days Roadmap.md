@@ -61,43 +61,28 @@ First mini project → Iris Classification
 
 📌 Phase 3 – Supervised Learning (Day 41–60)
 Goal: Classification + Regression models အသုံးပြုတတ်မယ်
+
 Day 41–45: Classification
 Logistic Regression
-
-
 K-Nearest Neighbors (KNN)
-
-
 Confusion Matrix, Accuracy
 
 
 Day 46–50: Advanced Classification
 Decision Tree Classifier
-
-
 Random Forest Classifier
-
-
 Support Vector Machine (SVM)
 
 
 Day 51–55: Regression
 Linear Regression
-
-
 Ridge & Lasso Regression
-
-
 Decision Tree Regressor
 
 
 Day 56–60: Model Evaluation
 Regression Metrics → MSE, RMSE, MAE, R²
-
-
 Classification Metrics → Precision, Recall, F1
-
-
 Cross Validation → cross_val_score()
 
 
