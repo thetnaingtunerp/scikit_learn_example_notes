@@ -6,18 +6,15 @@ Variables, Lists, Dicts, Functions
 Loops, Comprehensions
 matplotlib နဲ့ visualization basic
 
-
 Day 6–10: Numpy Basics
 Arrays, Indexing, Slicing
 Vectorized operations
 Broadcasting
 
-
 Day 11–15: Pandas Basics
 Series & DataFrame
 .head(), .info(), .describe()
 Missing values handling (.fillna(), .dropna())
-
 
 Day 16–20: Intro to ML
 What is Machine Learning?
